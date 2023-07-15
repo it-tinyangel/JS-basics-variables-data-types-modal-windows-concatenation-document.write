@@ -10,7 +10,7 @@ let result = n ** 3; // declaration and initialization result value
 console.log(result); // writes a message the result value of the result variable to the console
 
 // Task 2 (v.2):
- // writes a message the result value of the result variable to the console with description
+// writes a message the result value of the result variable to the console with description
 console.log('Зведення до степеня за допомогою арифметичного оператора піднесення до степеня (**), де перший операнд - число, другий операнд - показник ступеня:'); // writes a message to the console
 n = 3; // initialization n value
 console.log('Число ' + n); // writes a message 'Число п', when n — value of the n variable to the console
@@ -18,7 +18,7 @@ let result2 = n ** 3; // declaration result3 value and initialization value valu
 console.log('Число ' + n + ' в 3 степені = ' + result2); // writes a message 'Число п в 3 степені = value of the result2 variable' to the console
 
 // Task 2 (v.3):
- // writes a message the result value of the result variable to the console with description
+// writes a message the result value of the result variable to the console with description
 console.log('Зведення до степеня за допомогою статичного методу Math.pow(x,y), де x - число, y - показник ступеня:'); // writes a message to the console
 n = 4; // initialization n value
 console.log('Число ' + n); // writes a message 'Число п', when n — value of the n variable to the console
